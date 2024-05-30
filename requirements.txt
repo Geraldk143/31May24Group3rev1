@@ -1,0 +1,6 @@
+flask==2.3.1
+gunicorn
+google-generativeai
+replicate
+pysqlite3
+matplotlib
